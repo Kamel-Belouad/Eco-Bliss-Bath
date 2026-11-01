@@ -1,0 +1,6 @@
+node_modules/
+mysql/
+/cypress/
+/cypress.config.js
+/package.json
+/package-lock.json
